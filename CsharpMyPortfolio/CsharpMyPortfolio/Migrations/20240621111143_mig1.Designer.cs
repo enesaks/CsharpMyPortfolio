@@ -12,7 +12,7 @@ using Npgsql.EntityFrameworkCore.PostgreSQL.Metadata;
 namespace CsharpMyPortfolio.Migrations
 {
     [DbContext(typeof(MyPortfolioContext))]
-    [Migration("20240620195518_mig1")]
+    [Migration("20240621111143_mig1")]
     partial class mig1
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
