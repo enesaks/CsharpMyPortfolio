@@ -28,6 +28,23 @@
     <None Remove="ViewComponents\" />
     <None Remove="Views\Shared\Components\" />
     <None Remove="Views\Shared\Components\_HeadComponentPartial\" />
+    <None Remove="Views\Shared\Components\_NavbarComponentPartial\" />
+    <None Remove="Views\Shared\Components\_FeatureComponentPartial\" />
+    <None Remove="Views\Shared\Components\_AboutComponentPartial\" />
+    <None Remove="Views\Shared\Components\_SkillComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ExperienceComponentPartial\" />
+    <None Remove="Views\Shared\Components\_PortfolioComponentPartial\" />
+    <None Remove="Views\Shared\Components\_TestimonialComponentPartial\" />
+    <None Remove="Views\Shared\Components\_StatisticComponentPartial\" />
+    <None Remove="Views\Shared\Components\_ContactComponentPartial\" />
+    <None Remove="Views\Shared\Components\_FooterComponentPartial\" />
+    <None Remove="Views\Layout\" />
+    <None Remove="Views\Experience\" />
+    <None Remove="ViewComponents\LayoutViewComponents\" />
+    <None Remove="Views\Shared\Components\_LayoutHeadComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LayoutNavbarComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LayoutSideBarComponentPartial\" />
+    <None Remove="Views\Shared\Components\_LayoutScriptComponentPartial\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DAL\" />
@@ -38,5 +55,22 @@
     <Folder Include="ViewComponents\" />
     <Folder Include="Views\Shared\Components\" />
     <Folder Include="Views\Shared\Components\_HeadComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_NavbarComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_FeatureComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_AboutComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_SkillComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ExperienceComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_PortfolioComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_TestimonialComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_StatisticComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_ContactComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_FooterComponentPartial\" />
+    <Folder Include="Views\Layout\" />
+    <Folder Include="Views\Experience\" />
+    <Folder Include="ViewComponents\LayoutViewComponents\" />
+    <Folder Include="Views\Shared\Components\_LayoutHeadComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LayoutNavbarComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LayoutSideBarComponentPartial\" />
+    <Folder Include="Views\Shared\Components\_LayoutScriptComponentPartial\" />
   </ItemGroup>
 </Project>
