@@ -45,6 +45,9 @@
     <None Remove="Views\Shared\Components\_LayoutNavbarComponentPartial\" />
     <None Remove="Views\Shared\Components\_LayoutSideBarComponentPartial\" />
     <None Remove="Views\Shared\Components\_LayoutScriptComponentPartial\" />
+    <None Remove="Views\Statistic\" />
+    <None Remove="Views\Message\" />
+    <None Remove="Views\ToDoList\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="DAL\" />
@@ -72,5 +75,8 @@
     <Folder Include="Views\Shared\Components\_LayoutNavbarComponentPartial\" />
     <Folder Include="Views\Shared\Components\_LayoutSideBarComponentPartial\" />
     <Folder Include="Views\Shared\Components\_LayoutScriptComponentPartial\" />
+    <Folder Include="Views\Statistic\" />
+    <Folder Include="Views\Message\" />
+    <Folder Include="Views\ToDoList\" />
   </ItemGroup>
 </Project>

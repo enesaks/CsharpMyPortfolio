@@ -19,8 +19,7 @@ namespace CsharpMyPortfolio.DAL.Context
         public DbSet<Skill> Skills { get; set; }
         public DbSet<ScoialMedia> ScoialMedias { get; set; }
         public DbSet<Testimonial> Testimonials { get; set; }
-   
-
+        public DbSet<ToDoList> ToDoLists { get; set; }
 
     }
 }
